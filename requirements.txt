@@ -1,0 +1,5 @@
+azure-functions
+playwright==1.44.0
+msal
+requests
+python-dotenv
