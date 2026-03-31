@@ -22,4 +22,5 @@ def start_automation():
             raise
 
 if __name__ == "__main__":
+    x = 1/0
     start_automation()
